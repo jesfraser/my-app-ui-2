@@ -6,7 +6,7 @@
     <artifactId>project-example</artifactId>
     <version>0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>project-example-ui</artifactId>
+  <artifactId>my-app-ui</artifactId>
   <name>example-ui</name>
   <description>Project UI</description>
   <packaging>pom</packaging>
